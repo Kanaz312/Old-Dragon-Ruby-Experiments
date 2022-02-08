@@ -4,7 +4,7 @@ From there you can use any of the run.bat files to run the programs.
 The pre.bat files compile the C scripts, but will need you to change the path.
 Also, most of these use DRPro features.
 
-(flowFieldScreencap.jpg)
+[Flowfield](flowFieldScreencap.jpg)
 
 For the pictures:
 Dino by GDJ https://pixabay.com/vectors/tyrannosaurus-rex-dinosaur-t-rex-6863934/
