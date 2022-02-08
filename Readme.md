@@ -4,8 +4,12 @@ From there you can use any of the run.bat files to run the programs.
 The pre.bat files compile the C scripts, but will need you to change the path.
 Also, most of these use DRPro features.
 
-![Flowfield](flowFieldScreencap.jpg)
-
-For the pictures:
+For the sprites:
 Dino by GDJ https://pixabay.com/vectors/tyrannosaurus-rex-dinosaur-t-rex-6863934/
 Bird by ViolkaArt https://pixabay.com/vectors/bird-ornithology-hand-drawing-6982028/
+
+![Flowfield](flowFieldScreencap.jpg)
+![ProceduralFire](proceduralFireScreencap.jpg)
+![SpriteAura](spriteAuraScreencap.jpg)
+![WobblyAndFading](wobblyAndFadingScreencap.jpg)
+
