@@ -5,7 +5,7 @@ The pre.bat files compile the C scripts, but will need you to change the path.
 Also, most of these use DRPro features.
 
 For the sprites:
-Dino by GDJ https://pixabay.com/vectors/tyrannosaurus-rex-dinosaur-t-rex-6863934/
+<br>Dino by GDJ https://pixabay.com/vectors/tyrannosaurus-rex-dinosaur-t-rex-6863934/
 Bird by ViolkaArt https://pixabay.com/vectors/bird-ornithology-hand-drawing-6982028/
 
 ![Flowfield](flowFieldScreencap.jpg)
